@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: 0f700518dcc130d4aaa550f5507d2db7
+timeCreated: 1458333373
+licenseType: Store
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: FOX_Crouch_0
+    21300002: FOX_Crouch_1
+    21300004: FOX_Crouch_2
+    21300006: FOX_Crouch_3
+    21300008: FOX_Crouch_4
+    21300010: FOX_Crouch_5
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 50
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: FOX_Crouch_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25, y: 8}
+        - {x: -36, y: -11}
+        - {x: -36, y: -32}
+        - {x: 7, y: -32}
+        - {x: 7, y: 2}
+        - {x: 1, y: 8}
+    - name: FOX_Crouch_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -36, y: -7}
+        - {x: -36, y: -26}
+        - {x: -33, y: -32}
+        - {x: 4, y: -32}
+        - {x: 7, y: -31}
+        - {x: 7, y: 4}
+        - {x: 4, y: 8}
+    - name: FOX_Crouch_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 8}
+        - {x: -36, y: -7}
+        - {x: -36, y: -26}
+        - {x: -33, y: -32}
+        - {x: 4, y: -32}
+        - {x: 7, y: -31}
+        - {x: 7, y: 4}
+        - {x: 4, y: 8}
+    - name: FOX_Crouch_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 7}
+        - {x: -24, y: 7}
+        - {x: -36, y: -14}
+        - {x: -36, y: -30}
+        - {x: -32, y: -31}
+        - {x: -26, y: -32}
+        - {x: 3, y: -32}
+        - {x: 7, y: -29}
+        - {x: 7, y: 2}
+    - name: FOX_Crouch_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 7}
+        - {x: -24, y: 7}
+        - {x: -36, y: -14}
+        - {x: -36, y: -30}
+        - {x: -32, y: -31}
+        - {x: -26, y: -32}
+        - {x: 3, y: -32}
+        - {x: 7, y: -29}
+        - {x: 7, y: 2}
+    - name: FOX_Crouch_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 7}
+        - {x: -24, y: 7}
+        - {x: -36, y: -11}
+        - {x: -36, y: -32}
+        - {x: 5, y: -32}
+        - {x: 7, y: -26}
+        - {x: 7, y: 5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
